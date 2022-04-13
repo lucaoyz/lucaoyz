@@ -9,7 +9,7 @@ Cursando o ultimo ano (terceiro) do ensino médio com técnico de informática n
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-moraes-a3618b211)
-[![instagram](https://img.shields.io/badge/instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/)
+[![instagram](https://img.shields.io/badge/instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaoxz/)
 
 
 ## 🛠 Habilidades
