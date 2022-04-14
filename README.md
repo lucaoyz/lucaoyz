@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Lucas Moraes! ☕️
+# Olá, eu sou Lucas Moraes! ☕️
 
 
 ## 🚀 Sobre mim
