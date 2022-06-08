@@ -11,13 +11,16 @@ Cursando o ultimo ano (terceiro) do ensino médio com técnico de informática n
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-moraes-a3618b211)
 [![instagram](https://img.shields.io/badge/instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaoxz/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaoyz&show_icons=true&theme=radical&include_all_commits=true)
 
 ## 🛠 Habilidades
 ♧ HTML                                                  
 ♧ CSS                                                  
 ♧ PHP                                                  
 ♧ Laravel                                                  
-♧ MySQL                                                  
+♧ MySQL
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 ## 🛠 Habilidades Pessoais
 ♤ Autodidata                                                
@@ -27,7 +30,8 @@ Cursando o ultimo ano (terceiro) do ensino médio com técnico de informática n
 
 ## Outros
 👩‍💻 Atualmente trabalhando no trabalho de conclusão de curso em Laravel.
-https://github.com/lucaoyz/Sistema-Laravel
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaoyz&repo=sistema-laravel&theme=radical&show_owner=true)
 
 🧠 Estou aprendendo o framework Laravel.
 
