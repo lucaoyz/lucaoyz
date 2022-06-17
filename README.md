@@ -20,7 +20,7 @@ Cursando o ultimo ano (terceiro) do ensino médio com técnico de informática n
 ♧ Laravel                                                  
 ♧ MySQL
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaoyz&layout=compact&theme=radical)
 
 ## 🛠 Habilidades Pessoais
 ♤ Autodidata                                                
