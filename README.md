@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 Eu me chamo **Lucas Moraes**, sou um **desenvolvedor front-end e atualmente aprendendo o back-end** com o *framework Laravel*. Utilizo as linguagens *HTML5, CSS3, PHP8 e aprendendo o framework Laravel* e para banco de dados utilizo *MySQL*.
-Cursando o ultimo ano (terceiro) do ensino médio com técnico de informática na instituição Colegio Politec.
+Ensino médio com técnico de informática completo na instituição Colegio Politec.
 
 
 ## 🔗 Links
